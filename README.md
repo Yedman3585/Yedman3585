@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there, it's  README file of YEDMAN3585
 
-<!--
-**Yedman3585/Yedman3585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yedige Mussabayev. 
+I'm interested in Deep Learning, Quntum Computing and QML Engineering. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Stack/skills: 
+AI/ML Engineer: 
+Natural Language Processing, Reinforcement Learning, Neural Decoding, Brain Computer Interface and LLM 
+
+<img width="3392" height="2131" alt="workflow" src="https://github.com/user-attachments/assets/d9f317b8-2850-4c12-8c8b-fd00e6697854" />
+
+
+Quantum Computing: 
+Quantum Approximate Optimization Algorithm,  Quantum Annealing, Simulated Quantum Annealing/Simulated Annealing, Quadratic Unconstrained Binary Optimization, 
+Quantum Machine Learning (PennyLane)
+
+<img width="1390" height="904" alt="SQA_3d" src="https://github.com/user-attachments/assets/3fa80c97-d67d-4717-8e4a-149ca7c15a62" />
+
+Backend: 
+FastAPI, Flask, PostgreSQL, Redis 
+
+Deployment: 
+CI/CD, Docker 
+
+
+
+
+
+
+

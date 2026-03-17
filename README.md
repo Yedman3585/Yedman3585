@@ -16,6 +16,7 @@ I'm interested in Deep Learning, Quantum Computing and QML Engineering (and apps
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/D--Wave%20Leap-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -23,7 +24,7 @@ I'm interested in Deep Learning, Quantum Computing and QML Engineering (and apps
 </p>
 
 
-AI/ML Engineer: 
+## AI/ML Engineer: 
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
@@ -38,7 +39,7 @@ Natural Language Processing, Reinforcement Learning, Neural Decoding, Brain Comp
 <img width="3392" height="2131" alt="workflow" src="https://github.com/user-attachments/assets/d9f317b8-2850-4c12-8c8b-fd00e6697854" />
 
 
-Quantum Computing: 
+## Quantum Computing: 
 <p align="left">
   <img src="https://img.shields.io/badge/D--Wave%20Leap-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenJij-blue?style=for-the-badge" />

@@ -1,7 +1,12 @@
 ## Hi there, it's  README file of YEDMAN3585
 
+
 I'm Yedige Mussabayev. 
 I'm interested in Deep Learning, Quantum Computing and QML Engineering. 
+
+
+
+![Yedman3585's Stats](https://github-readme-stats.vercel.app/api?username=Yedman3585&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
 
 ## My Stack/skills: 

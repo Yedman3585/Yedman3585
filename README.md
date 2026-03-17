@@ -24,7 +24,7 @@ I'm interested in Deep Learning, Quantum Computing and QML Engineering (and apps
 </p>
 
 
-## AI/ML Engineer: 
+## AI/ML : 
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />

@@ -2,7 +2,7 @@
 
 
 I'm Yedige Mussabayev. 
-I'm interested in Deep Learning, Quantum Computing and QML Engineering. 
+I'm interested in Deep Learning, Quantum Computing and QML Engineering (and apps dev a lit bit). 
 
 
 

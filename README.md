@@ -10,7 +10,9 @@ I'm interested in Deep Learning, Quantum Computing and QML Engineering (and apps
 
 ![Yedman3585's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yedman3585&theme=monokai&hide_border=true)
 
+
 ![Yedman3585's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yedman3585&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+
 
 
 ## My Stack/skills: 

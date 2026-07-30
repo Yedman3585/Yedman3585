@@ -7,7 +7,7 @@ I'm interested in Deep Learning, Quantum Computing
 
 ![Yedman3585 GitHub stats](https://your-project.vercel.app/api/card?username=Yedman3585)
 
-
+![DSML KZ icon](https://your-project.vercel.app/icons/dsml-kz.svg)
 
 
 

@@ -4,6 +4,9 @@
 I'm Yedige Mussabayev. 
 I'm interested in Deep Learning, Quantum Computing  
 
+![DSML KZ icon](https://0b69-5-10-0-151.ngrok-free.app/icons/dsml-kz.svg)
+
+
 ![GitHub stats](https://0b69-5-10-0-151.ngrok-free.app/api/card?username=Yedman3585&demo=1)
 
 

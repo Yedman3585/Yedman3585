@@ -11,6 +11,14 @@ I'm interested in Deep Learning, Quantum Computing
 
 
 
+
+
+![Yedman3585 GitHub stats](https://your-project.vercel.app/api/card?username=Yedman3585)
+
+![DSML KZ icon](https://your-project.vercel.app/icons/dsml-kz.svg)
+
+
+
 ![Yedman3585's Stats](https://github-readme-stats.vercel.app/api?username=Yedman3585&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
 ![Yedman3585's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yedman3585&theme=monokai&hide_border=true)

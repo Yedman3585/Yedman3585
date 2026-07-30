@@ -5,12 +5,7 @@ I'm Yedige Mussabayev.
 I'm interested in Deep Learning, Quantum Computing  
 
 
-![Yedman3585 GitHub stats](https://your-project.vercel.app/api/card?username=Yedman3585)
-
-![DSML KZ icon](https://your-project.vercel.app/icons/dsml-kz.svg)
-
-
-
+![GitHub stats](https://eb40-5-10-0-150.ngrok-free.app/api/card?username=Yedman3585&demo=1)
 
 
 ![Yedman3585 GitHub stats](https://your-project.vercel.app/api/card?username=Yedman3585)

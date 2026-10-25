@@ -1,4 +1,4 @@
-## Hi there, it's  README file of YEDMAN3585
+
 
 
 I'm Yedige Mussabayev. 

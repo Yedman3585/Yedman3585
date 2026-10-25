@@ -3,7 +3,9 @@
 
 I'm Yedige Mussabayev. 
 I'm interested in Deep Learning, Quantum Computing and QML 
-I'm feeling lack of autism
+
+
+I'm feeling lack of autism ig 
 
 ![DSML KZ icon](https://0b69-5-10-0-151.ngrok-free.app/icons/dsml-kz.svg)
 

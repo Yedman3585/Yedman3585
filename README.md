@@ -2,7 +2,7 @@
 
 
 I'm Yedige Mussabayev. 
-I'm interested in Deep Learning, Quantum Computing and QML 
+I'm interested in Deep Learning, Quantum Computing and QML and Combinatorial Optimization 
 
 
 ![DSML KZ icon](https://0b69-5-10-0-151.ngrok-free.app/icons/dsml-kz.svg)

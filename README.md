@@ -2,10 +2,6 @@
 
 
 I'm Yedige Mussabayev. 
-I'm interested in Deep Learning, Quantum Computing and QML and Combinatorial Optimization research
-
-
-
 
 
 

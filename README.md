@@ -10,8 +10,6 @@ QML
 ML 
 
 
-public/badges/badge_community.svg
-
 
 Combinatorial Optimization 
 

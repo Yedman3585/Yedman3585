@@ -1,6 +1,9 @@
 
 
 
+[![DSML GitHub Card](https://dsml-card.vercel.app/api/card?username=YOUR_USERNAME&type=streak)](https://github.com/YOUR_USERNAME)
+
+
 I'm Yedige Mussabayev. 
 
 

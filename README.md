@@ -9,7 +9,7 @@ QML
 
 ML 
 
-
+[![DSML GitHub Card](https://dsml-card.vercel.app/api/card?username=YOUR_USERNAME&type=compact)](https://github.com/YOUR_USERNAME)
 
 
 

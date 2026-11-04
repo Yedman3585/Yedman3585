@@ -1,3 +1,10 @@
+https://dsml-card.vercel.app/badges/dsmlkz_text.svg 
+
+
+
+
+
+
 
 
 

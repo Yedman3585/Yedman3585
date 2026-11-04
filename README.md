@@ -6,6 +6,8 @@ I'm Yedige Mussabayev.
 
 QML 
 
+[![DSML GitHub Card](https://dsml-card.vercel.app/api/card?username=YOUR_USERNAME&type=languages)](https://github.com/YOUR_USERNAME)
+
 
 ML 
 

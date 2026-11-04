@@ -4,6 +4,10 @@
 I'm Yedige Mussabayev. 
 
 
+
+[![DSML GitHub Card](https://dsml-card.vercel.app/api/card?username=YOUR_USERNAME&type=stats)](https://github.com/YOUR_USERNAME)
+
+
 QML 
 
 [![DSML GitHub Card](https://dsml-card.vercel.app/api/card?username=YOUR_USERNAME&type=languages)](https://github.com/YOUR_USERNAME)

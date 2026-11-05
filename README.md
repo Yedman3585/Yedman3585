@@ -12,7 +12,6 @@
 
 <p align="left">
   <img src="https://dsml-card.vercel.app/badges/dsmlkz_text.svg" />
-  <img src="https://dsml-card.vercel.app/badges/badge_community.svg" />
 </p>
 
 

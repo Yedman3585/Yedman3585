@@ -7,10 +7,6 @@
 
 
 
-https://dsml-card.vercel.app/badges/dsmlkz_text.svg 
-
-https://dsml-card.vercel.app/badges/badge_community.svg
-
 
 
 

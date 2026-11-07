@@ -1,5 +1,4 @@
-[![DSML GitHub Card](https://dsml-card-68un23j85-yedman3585.vercel.app/api/card?username=YOUR_USERNAME&type=compact)](https://github.com/yedman3585) 
-
+[![DSML GitHub Card](https://dsml-card-68un23j85-yedman3585.vercel.app/api/card?username=yedman3585&type=compact)](https://github.com/yedman3585)
 
 
 

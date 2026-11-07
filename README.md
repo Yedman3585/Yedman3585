@@ -2,6 +2,30 @@
 
 
 
+<p align="left">
+  <img src="https://dsml-card.vercel.app/badges/badge_ds.svg" />
+</p>
+
+
+
+<p align="left">
+  <img src="https://dsml-card.vercel.app/badges/badge_community.svg" />
+</p>
+
+
+<p align="left">
+  <img src="https://dsml-card.vercel.app/badges/badge_dsmlkz_simple.svg" />
+</p>
+
+
+<p align="left">
+  <img src="https://dsml-card.vercel.app/badges/badge_dsmlkz.svg" />
+</p>
+
+
+
+
+
 [![DSML GitHub Card](https://dsml-card.vercel.app/api/card?username=yedman3585&type=languages)](https://github.com/yedman3585)
 
 

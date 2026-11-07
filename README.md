@@ -1,3 +1,6 @@
+[![DSML GitHub Card](https://dsml-card-68un23j85-yedman3585.vercel.app/api/card?username=YOUR_USERNAME&type=compact)](https://github.com/YOUR_USERNAME)
+
+
 [![DSML GitHub Card](https://dsml-card.vercel.app/api/card?username=yedman3585&type=languages)](https://github.com/yedman3585)
 
 

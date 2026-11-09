@@ -1,31 +1,3 @@
-[![DSML GitHub Card](https://dsml-card.vercel.app/api/card?username=yedman3585&type=compact)](https://github.com/yedman3585)
-
-<p align="left">
-  <img src="https://dsml-card.vercel.app/badges/dsmlkz_brand.svg" />
-</p>
-
-
-<p align="left">
-  <img src="https://dsml-card.vercel.app/badges/badge_ds.svg" />
-</p>
-
-
-
-<p align="left">
-  <img src="https://dsml-card.vercel.app/badges/badge_community.svg" />
-</p>
-
-
-<p align="left">
-  <img src="https://dsml-card.vercel.app/badges/badge_dsmlkz_simple.svg" />
-</p>
-
-
-<p align="left">
-  <img src="https://dsml-card.vercel.app/badges/badge_dsmlkz.svg" />
-</p>
-
-
 
 
 
@@ -84,9 +56,6 @@
   <img src="https://img.shields.io/badge/Braindecode-5462d4?style=for-the-badge" />
 </p>
 
-Natural Language Processing, Reinforcement Learning, Neural Decoding, Brain Computer Interface and LLM 
-
-<img width="3392" height="2131" alt="workflow" src="https://github.com/user-attachments/assets/d9f317b8-2850-4c12-8c8b-fd00e6697854" />
 
 
 ## Quantum Computing: 
@@ -97,10 +66,6 @@ Natural Language Processing, Reinforcement Learning, Neural Decoding, Brain Comp
   <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white" />
 </p>
 
-Quantum Approximate Optimization Algorithm,  Quantum Annealing, Simulated Quantum Annealing/Simulated Annealing, Quadratic Unconstrained Binary Optimization, 
-Quantum Machine Learning (PennyLane)
-
-<img width="1390" height="904" alt="SQA_3d" src="https://github.com/user-attachments/assets/3fa80c97-d67d-4717-8e4a-149ca7c15a62" />
 
 Others: 
 <p align="left">

@@ -7,7 +7,6 @@
 
 
 
-[![DSML GitHub Card](https://dsml-card.vercel.app/api/card?username=yedman3585&type=streak)](https://github.com/yedman3585)
 
 
 <p align="left">

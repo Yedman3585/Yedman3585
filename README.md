@@ -1,12 +1,4 @@
 
-
-[![DSML GitHub Card](https://dsml-card.vercel.app/api/card?username=yedman3585&type=stats)](https://github.com/yedman3585)
-
-
-
-
-
-
 <p align="left">
   <img src="https://dsml-card.vercel.app/badges/dsmlkz_text.svg" />
 </p>

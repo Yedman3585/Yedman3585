@@ -3,10 +3,7 @@
   <img src="https://dsml-card.vercel.app/badges/dsmlkz_text.svg" />
 </p>
 
-
-[![DSML GitHub Card](https://dsml-card.vercel.app/api/card?username=YOUR_USERNAME&type=streak)](https://github.com/YOUR_USERNAME) 
-
-
+[![DSML GitHub Card](https://dsml-card.vercel.app/api/card?username=Yedman3585&type=streak)](https://github.com/Yedman3585) 
 
 ## My Stack/skills: 
 

@@ -5,6 +5,10 @@
 
 [![DSML GitHub Card](https://dsml-card.vercel.app/api/card?username=Yedman3585&type=streak)](https://github.com/Yedman3585) 
 
+[![DSML GitHub Card](https://dsml-card.vercel.app/api/card?username=Yedman3585&type=languages)](https://github.com/Yedman3585)
+
+
+
 ## My Stack/skills: 
 
 

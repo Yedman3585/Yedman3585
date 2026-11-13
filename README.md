@@ -2,6 +2,8 @@ ML enthusiast
 
 QML research
 
+Combinatorial Optimization 
+
 
 <p align="left">
   <img src="https://dsml-card.vercel.app/badges/dsmlkz_text.svg" />

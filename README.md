@@ -1,5 +1,8 @@
 ML enthusiast
 
+QML research
+
+
 <p align="left">
   <img src="https://dsml-card.vercel.app/badges/dsmlkz_text.svg" />
 </p>

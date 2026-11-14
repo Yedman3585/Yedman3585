@@ -1,7 +1,5 @@
 ML enthusiast
 
-QML research
-
 
 
 

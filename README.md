@@ -4,7 +4,6 @@ QML research
 
 Combinatorial Optimization 
 
-autism maxxing 
 
 
 

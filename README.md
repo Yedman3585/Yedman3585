@@ -2,7 +2,6 @@ ML enthusiast
 
 QML research
 
-Combinatorial Optimization 
 
 
 

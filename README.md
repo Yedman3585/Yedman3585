@@ -6,7 +6,7 @@ QML
 
 Autismus Maxximus Generalisimuss 
 
-Quantum Computing 
+
 
 
 

@@ -4,7 +4,6 @@ Combinatorial Optimization
 
 QML 
 
-Autismus Maxximus Generalisimuss 
 
 
 

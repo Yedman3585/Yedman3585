@@ -2,7 +2,6 @@ Machine Learning
 
 Combinatorial Optimization
 
-QML 
 
 
 

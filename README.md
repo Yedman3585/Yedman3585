@@ -1,4 +1,4 @@
-ML  ++  QML  ++ Combinatorial Optimization 
+ML  ++  QML  ++ 
 
 
 

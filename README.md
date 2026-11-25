@@ -1,4 +1,4 @@
-ML + + Quantum Computing ++ Combinatorial Optimization ++ Autism ++ Anime blue ocean
+ML + + Quantum Computing ++ Combinatorial Optimization ++ Autism ++
 
 
 I love money and research 

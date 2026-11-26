@@ -1,4 +1,4 @@
-ML + + Quantum Computing ++ Combinatorial  
+ML + + Quantum Computing ++   
 
 
 

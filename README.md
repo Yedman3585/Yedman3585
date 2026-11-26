@@ -1,4 +1,4 @@
-ML + + Quantum Computing ++ Combinatorial Optimization ++  
+ML + + Quantum Computing ++ Combinatorial Optimization 
 
 
 

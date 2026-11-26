@@ -1,4 +1,4 @@
-ML + + Quantum Computing   
+ML + + Quantum   
 
 
 

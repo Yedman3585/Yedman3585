@@ -1,7 +1,6 @@
 ML + + Quantum Computing ++ Combinatorial Optimization ++ Autism ++
 
 
-I love money and research 
 
 
 
